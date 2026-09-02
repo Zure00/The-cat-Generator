@@ -9,7 +9,7 @@ it's a python script that generates legitimately cool cat jokes and ends with: *
 (spoiler: they're unfunny)
 
 
-### example (this slaps):Why don't cats play poker in the jungle?
+### example :Why don't cats play poker in the jungle?
 Too many cheetahs! meo-ow!
 
 ## install it (it's easy i promise)
