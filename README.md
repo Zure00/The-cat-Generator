@@ -1,12 +1,12 @@
-# 🐱 Cat Joke Generator
+#  Cat Joke Generator
 
 listen... if you're here, you clearly have excellent taste for cats.
 
 ## what is this?
 
-it's a python script that generates legitimately cool cat jokes and ends them with the most iconic cat sounds known to mankind: **meo-ow!** or **mreow!**
+it's a python script that generates legitimately cool cat jokes and ends with: **meo-ow!** or **mreow!**
 
-(spoiler: they're funny)
+(spoiler: they're unfunny)
 
 
 ### example (this slaps):Why don't cats play poker in the jungle?
@@ -23,7 +23,7 @@ python cat_joke_generator.py
 if this doesn't work, the problem is definitely your computer and not this code.
 
 
-## the tea ☕
+## random info
 
 this started as a joke for my first github post.
 
