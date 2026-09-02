@@ -20,12 +20,12 @@ cd cat-joke-generator
 python cat_joke_generator.py
 ```
 
-if this doesn't work, the problem is definitely your computer and not this code.
+if this doesn't work, the problem is  your computer and not this code.
 
 
 ## random info
 
-this started as a joke for my first github post.
+this is a joke for my first github post.
 
 ## credits
 
